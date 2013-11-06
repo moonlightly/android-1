@@ -449,5 +449,5 @@
   <project name="android_kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" remote="omnirom" revision="android-4.4" />
   <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" remote="cm" revision="cm-10.2" />
   <project name="android_hardware_samsung" path="hardware/samsung" remote="omnirom" revision="android-4.3" />
-  <project name="DonkeyCoyote/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="android-4.3" />
+  <project name="DonkeyCoyote/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="android-4.4" />
 </manifest>
