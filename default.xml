@@ -443,11 +443,11 @@
   <project path="packages/apps/MonthCalendarWidget" name="android_packages_apps_MonthCalendarWidget" remote="omnirom" revision="android-4.4" />
   
   <!--Vendors-->
-  <project name="CyanogenMod/android_vendor_cm" path="vendor/cm" remote="cm" revision="cm-10.2" />
+  <project name="CyanogenMod/android_vendor_cm" path="vendor/cm" remote="cm" revision="cm-11.0" />
   <project name="android_device_samsung_n7100" path="device/samsung/n7100" remote="omnirom" revision="android-4.3" />
   <project name="android_device_samsung_smdk4412-common" path="device/samsung/smdk4412-common" remote="omnirom" revision="android-4.4" />
   <project name="android_kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" remote="omnirom" revision="android-4.4" />
-  <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" remote="cm" revision="cm-10.2" />
-  <project name="android_hardware_samsung" path="hardware/samsung" remote="omnirom" revision="android-4.4" />
+  <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" remote="cm" revision="cm-11.0" />
+  <project name="CyanogenMod/android_hardware_samsung" path="hardware/samsung" remote="cm" revision="cm-11.0" />
   <project name="DonkeyCoyote/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="android-4.4" />
 </manifest>
